@@ -6,6 +6,8 @@ Design notes for CrisisWeave, a crisis-information pipeline built around provena
 
 - [`ARCHITECTURE.md`](ARCHITECTURE.md): component boundaries, event flow and public contract.
 - [`THREAT_MODEL.md`](THREAT_MODEL.md): misinformation, malicious inputs, stale offline data and operational failure modes.
+- [`DEPLOYMENT_TIERS.md`](DEPLOYMENT_TIERS.md): explicit readiness levels from synthetic evaluation through sensitive operations.
+- [`SECURITY.md`](SECURITY.md): coordinated vulnerability reporting and safe testing expectations.
 
 ## Core principle
 
